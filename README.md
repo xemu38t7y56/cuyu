@@ -4,3 +4,14 @@
 docker build -t ade/kil:v0v1
 docker push ade/kill:v0v1
 ```
+
+## CI Logs
+
+<details>
+<summary><b>Log (Click To Open)</b></summary>
+
+<!-- CI-LOG-START -->
+1127 1
+<!-- CI-LOG-END -->
+
+</details>
